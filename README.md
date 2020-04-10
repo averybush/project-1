@@ -1,3 +1,6 @@
+
+[![octocat](images/octocat.png)](https://pages.uoregon.edu/abush/281/)
+
 # CIT 281 Project 1
 
 ## Learning Objectives

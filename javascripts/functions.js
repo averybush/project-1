@@ -1,4 +1,4 @@
-// jshint esversion: 6
+// jshint esversion: 7
 
 //3b
 let arrAvg = (arr) => {
@@ -30,3 +30,13 @@ let sumEvens = (numbers) => {
   }
   return sum;
 };
+
+//3e extra credit
+function alphaPosition (ch){
+    return ch.charCodeAt();
+}
+
+//convert to lower case
+//convert lower case asci to 1-26 in stead of 97-122
+
+  break;
